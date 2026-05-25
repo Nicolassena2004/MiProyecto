@@ -2,7 +2,7 @@ package com.Nicolas.infrastructure.adapter.input.rest;
 
 public class AuthController {
 
-import com.login.application.dto.LoginRequest;
+import com.Nicolas.application.dto.LoginRequest;
 import com.login.application.dto.LoginResponse;
 import com.login.domain.port.input.LoginPort;
 import jakarta.validation.Valid;
